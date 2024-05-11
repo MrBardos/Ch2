@@ -4,10 +4,10 @@ def to_degrees_minutes_seconds(decimal_degrees):
     :param decimal_degrees: degrees latitude or longitude (assume non-negative numbers)
     :return: degrees, minutes as whole numbers and seconds rounded to 3 decimal places
     """
-    degrees = int(decimal_degrees) # decimal_degrees // 1 works too!
+    degrees = int(decimal_degrees)  # decimal_degrees // 1 works too!
     leftover = decimal_degrees - degrees
-    minutes = int(leftover * 60)
-    seconds = round((leftover*60 - minutes)*60,3)
+    minutes = round(leftover * 60)
+    seconds = round((leftover * 60 - minutes) * 60, 3)
     mnt, sec = divmod(abs(decimal_degrees) * 3600, 60)
     deg, mnt = divmod(mnt, 60)
 
