@@ -1,3 +1,5 @@
+# try converting 14.1 to DMS, you get 5' and 60" (ain't no 60 seconds) huh.
+
 def to_degrees_minutes_seconds(decimal_degrees):
     """
     converts decimal degrees to degrees minutes seconds
@@ -6,7 +8,7 @@ def to_degrees_minutes_seconds(decimal_degrees):
     """
     degrees = int(decimal_degrees)  # decimal_degrees // 1 works too!
     leftover = decimal_degrees - degrees
-    minutes = round(leftover * 60)
+    minutes = int(leftover * 60)
     seconds = round((leftover * 60 - minutes) * 60, 3)
     mnt, sec = divmod(abs(decimal_degrees) * 3600, 60)
     deg, mnt = divmod(mnt, 60)
