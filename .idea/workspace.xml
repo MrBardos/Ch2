@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="dms update">
-      <change afterPath="$PROJECT_DIR$/tests/test_ch2e_feet_and_inches.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Ch2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ch2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch2d_amortization_table.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2e_feet_and_inches.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2e_feet_and_inches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2e_feet_and_inches.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2e_ft_and_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_ch2e_feet_and_inches.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ch2e_ft_and_in.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -51,11 +51,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python tests.pytest for test_ch2b_quadratic_formula.test_quadratic_formula.executor": "Run",
     "Python tests.pytest for test_ch2e_feet_and_inches.test_to_feet_and_inches.executor": "Run",
+    "Python tests.pytest for test_ch2e_ft_and_in.test_to_ft_in_sixteenths.executor": "Run",
     "Python.ch2b_quadratic_formula.executor": "Debug",
     "Python.ch2c_dms.executor": "Run",
+    "Python.ch2d_amortization_table.executor": "Run",
     "Python.ch2e_feet_and_inches.executor": "Run",
+    "Python.ch2e_ft_and_in (1).executor": "Run",
     "Python.tmptest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -69,8 +73,8 @@
       <recent name="C:\Users\cutou\PycharmProjects\Ch2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_ch2e_feet_and_inches.test_to_feet_and_inches">
-    <configuration name="ch2b_quadratic_formula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ch2d_amortization_table">
+    <configuration name="ch2d_amortization_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ch2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch2b_quadratic_formula.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch2d_amortization_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch2c_dms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ch2e_ft_and_in (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ch2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch2c_dms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch2e_ft_and_in.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch2e_feet_and_inches" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ch2e_ft_and_in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ch2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch2e_feet_and_inches.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\cutou\PycharmProjects\Ch2\ch2e_ft_and_in.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_ch2b_quadratic_formula.test_quadratic_formula" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_ch2e_ft_and_in.test_to_ft_in_sixteenths" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Ch2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +153,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_ch2b_quadratic_formula.test_quadratic_formula&quot;" />
+      <option name="_new_target" value="&quot;test_ch2e_ft_and_in.test_to_ft_in_sixteenths&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_ch2e_feet_and_inches.test_to_feet_and_inches" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for tests.test_ch2e_ft_and_in.test_to_feet_and_inches" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Ch2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,17 +170,17 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_ch2e_feet_and_inches.test_to_feet_and_inches&quot;" />
+      <option name="_new_target" value="&quot;tests.test_ch2e_ft_and_in.test_to_feet_and_inches&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_ch2e_feet_and_inches.test_to_feet_and_inches" />
-        <item itemvalue="Python.ch2e_feet_and_inches" />
-        <item itemvalue="Python.ch2b_quadratic_formula" />
-        <item itemvalue="Python.ch2c_dms" />
-        <item itemvalue="Python tests.pytest for test_ch2b_quadratic_formula.test_quadratic_formula" />
+        <item itemvalue="Python.ch2d_amortization_table" />
+        <item itemvalue="Python tests.pytest for test_ch2e_ft_and_in.test_to_ft_in_sixteenths" />
+        <item itemvalue="Python.ch2e_ft_and_in (1)" />
+        <item itemvalue="Python tests.pytest for tests.test_ch2e_ft_and_in.test_to_feet_and_inches" />
+        <item itemvalue="Python.ch2e_ft_and_in" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715472214457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dms update">
+      <option name="closed" value="true" />
+      <created>1715523117645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715523117645</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
