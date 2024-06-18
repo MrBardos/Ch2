@@ -1,3 +1,4 @@
+# Sample program to illustrate Pythonic styling.
 def effective_rate(continuous_rate):
     from math import e
     """
