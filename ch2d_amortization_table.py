@@ -14,9 +14,9 @@ def payment(amt, rate, yrs):
 def amortization(amt, interest, yrs, payment):
     """
     Prints amortization table of a loan
-    :param amt: Amount of the loan
+    :param amt: Amount of the loan.
     :param payment: Monthly payment
-    :param yrs: How long the loan is for
+    :param yrs: How long the loan is for in years
     :return: None. prints a table
     """
     interest /= 100 * 12
