@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="tweaks to align with codeHS">
-      <change afterPath="$PROJECT_DIR$/ch2b_quadratic_formula_harder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2b_quadratic_formula.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2b_quadratic_formula.py" afterDir="false" />
-    </list>
+    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="tweaks to align with codeHS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718645319837</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tweaks to align with codeHS">
+      <option name="closed" value="true" />
+      <created>1718812487766</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718812487766</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +275,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dms update" />
     <MESSAGE value="feet and inches" />
-    <option name="LAST_COMMIT_MESSAGE" value="feet and inches" />
+    <MESSAGE value="tweaks to align with codeHS" />
+    <option name="LAST_COMMIT_MESSAGE" value="tweaks to align with codeHS" />
   </component>
 </project>
