@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="xml files">
-      <change afterPath="$PROJECT_DIR$/variable and ops demo part 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable and ops practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables and ops demo part 2.py" afterDir="false" />
+    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="practice and demo files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2d_amortization_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2d_amortization_table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,29 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python tests.pytest for test_ch2b_quadratic_formula.test_quadratic_formula.executor": "Run",
-    "Python tests.pytest for test_ch2e_feet_and_inches.test_to_feet_and_inches.executor": "Run",
-    "Python tests.pytest for test_ch2e_ft_and_in.test_to_ft_in_sixteenths.executor": "Run",
-    "Python.ch2b_quadratic_formula.executor": "Run",
-    "Python.ch2c_dms.executor": "Run",
-    "Python.ch2d_amortization_table.executor": "Run",
-    "Python.ch2d_investment_value.executor": "Run",
-    "Python.ch2e_feet_and_inches.executor": "Run",
-    "Python.ch2e_ft_and_in (1).executor": "Run",
-    "Python.tmp.executor": "Run",
-    "Python.tmptest.executor": "Run",
-    "Python.variable and ops practice.executor": "Run",
-    "Python.variables and ops demo part 2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/cutou/PycharmProjects/Ch2",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.pytest for test_ch2b_quadratic_formula.test_quadratic_formula.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ch2e_feet_and_inches.test_to_feet_and_inches.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ch2e_ft_and_in.test_to_ft_in_sixteenths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2b_quadratic_formula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2c_dms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2d_amortization_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2d_investment_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2e_feet_and_inches.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2e_ft_and_in (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.tmp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tmptest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable and ops practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables and ops demo part 2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cutou/PycharmProjects/Ch2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\cutou\PycharmProjects\Ch2" />
@@ -274,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721949283989</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="practice and demo files">
+      <option name="closed" value="true" />
+      <created>1722790573193</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722790573193</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +299,7 @@
     <MESSAGE value="feet and inches" />
     <MESSAGE value="tweaks to align with codeHS" />
     <MESSAGE value="xml files" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml files" />
+    <MESSAGE value="practice and demo files" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice and demo files" />
   </component>
 </project>
