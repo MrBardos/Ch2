@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="fixed amortization">
-      <change afterPath="$PROJECT_DIR$/count loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pentagonal numbers.py" afterDir="false" />
+    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="new smaller programs">
+      <change afterPath="$PROJECT_DIR$/writing for loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +67,7 @@
     "Python.tmptest.executor": "Run",
     "Python.variable and ops practice.executor": "Run",
     "Python.variables and ops demo part 2.executor": "Run",
+    "Python.writing for loops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -293,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725754841833</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new smaller programs">
+      <option name="closed" value="true" />
+      <created>1733594747013</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733594747013</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,6 +321,7 @@
     <MESSAGE value="xml files" />
     <MESSAGE value="practice and demo files" />
     <MESSAGE value="fixed amortization" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed amortization" />
+    <MESSAGE value="new smaller programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="new smaller programs" />
   </component>
 </project>
