@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="new smaller programs">
-      <change afterPath="$PROJECT_DIR$/writing for loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="practice writing for loops" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -300,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733594747013</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="practice writing for loops">
+      <option name="closed" value="true" />
+      <created>1733604510476</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733604510476</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,6 +327,7 @@
     <MESSAGE value="practice and demo files" />
     <MESSAGE value="fixed amortization" />
     <MESSAGE value="new smaller programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="new smaller programs" />
+    <MESSAGE value="practice writing for loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice writing for loops" />
   </component>
 </project>
