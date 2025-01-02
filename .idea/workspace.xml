@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="practice writing for loops" />
+    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,39 +45,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python tests.pytest for test_ch2b_quadratic_formula.test_quadratic_formula.executor": "Run",
-    "Python tests.pytest for test_ch2e_feet_and_inches.test_to_feet_and_inches.executor": "Run",
-    "Python tests.pytest for test_ch2e_ft_and_in.test_to_ft_in_sixteenths.executor": "Run",
-    "Python.ch2b_quadratic_formula.executor": "Run",
-    "Python.ch2c_dms.executor": "Run",
-    "Python.ch2d_amortization_table.executor": "Run",
-    "Python.ch2d_investment_value.executor": "Run",
-    "Python.ch2e_feet_and_inches.executor": "Run",
-    "Python.ch2e_ft_and_in (1).executor": "Run",
-    "Python.count loops.executor": "Run",
-    "Python.fibonacci.executor": "Run",
-    "Python.pentagonal numbers.executor": "Run",
-    "Python.tmp.executor": "Run",
-    "Python.tmptest.executor": "Run",
-    "Python.variable and ops practice.executor": "Run",
-    "Python.variables and ops demo part 2.executor": "Run",
-    "Python.writing for loops.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/cutou/PycharmProjects/Ch2",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.pytest for test_ch2b_quadratic_formula.test_quadratic_formula.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ch2e_feet_and_inches.test_to_feet_and_inches.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ch2e_ft_and_in.test_to_ft_in_sixteenths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2b_quadratic_formula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2c_dms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2d_amortization_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2d_investment_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2e_feet_and_inches.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch2e_ft_and_in (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.count loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pentagonal numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tmp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tmptest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable and ops practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables and ops demo part 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.writing for loops.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cutou/PycharmProjects/Ch2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\cutou\PycharmProjects\Ch2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ch2b_quadratic_formula">
     <configuration name="ch2b_quadratic_formula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ch2" />
       <option name="ENV_FILES" value="" />
@@ -305,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733604510476</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="practice">
+      <option name="closed" value="true" />
+      <created>1733878967596</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733878967596</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,6 +336,7 @@
     <MESSAGE value="fixed amortization" />
     <MESSAGE value="new smaller programs" />
     <MESSAGE value="practice writing for loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice writing for loops" />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
 </project>
