@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/chessboard rice.py" afterDir="false" />
+    <list default="true" id="92330d65-dc14-43fd-9321-c1b4babd4d5b" name="Changes" comment="dms update">
+      <change beforePath="$PROJECT_DIR$/.idea/Ch2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ch2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chessboard rice.py" beforeDir="false" afterPath="$PROJECT_DIR$/chessboard rice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +33,17 @@
     &quot;assignee&quot;: &quot;MrBardos&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MrBardos/Ch2.git&quot;,
-    &quot;accountId&quot;: &quot;594c49f9-ee43-4145-ab19-a4334f9972ba&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrBardos/Ch2.git",
+    "accountId": "8e14fc76-a8ee-4bb0-9b32-3f4a040e1d5f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2gLFFn0q6QllX6tq6u8n9VjzxjG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -60,7 +62,6 @@
     "Python.ch2d_investment_value.executor": "Run",
     "Python.ch2e_feet_and_inches.executor": "Run",
     "Python.ch2e_ft_and_in (1).executor": "Run",
-    "Python.chessboard rice.executor": "Run",
     "Python.count loops.executor": "Run",
     "Python.fibonacci.executor": "Run",
     "Python.pentagonal numbers.executor": "Run",
@@ -70,6 +71,7 @@
     "Python.variables and ops demo part 2.executor": "Run",
     "Python.writing for loops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/cutou/PycharmProjects/Ch2",
@@ -81,7 +83,7 @@
       <recent name="C:\Users\cutou\PycharmProjects\Ch2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ch2b_quadratic_formula">
     <configuration name="ch2b_quadratic_formula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ch2" />
       <option name="ENV_FILES" value="" />
@@ -200,7 +202,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
@@ -309,23 +311,7 @@
       <option name="project" value="LOCAL" />
       <updated>1733604510476</updated>
     </task>
-    <task id="LOCAL-00013" summary="practice">
-      <option name="closed" value="true" />
-      <created>1733878967596</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1733878967596</updated>
-    </task>
-    <task id="LOCAL-00014" summary="practice">
-      <option name="closed" value="true" />
-      <created>1735848912705</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1735848912705</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,7 +334,6 @@
     <MESSAGE value="fixed amortization" />
     <MESSAGE value="new smaller programs" />
     <MESSAGE value="practice writing for loops" />
-    <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice writing for loops" />
   </component>
 </project>

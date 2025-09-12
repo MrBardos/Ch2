@@ -1,7 +1,7 @@
-# Program to calculate how many grains of rice will be
+# Program to calculate how many grains of wheat will be
 # on a chessboard if you start with one grain on the first
-# square and double every time.
-# Print day, current square, total
+# square and double every subsequent square.
+# Print the number of the square you are on, the current square, total
 square = 1
 total = 1
 print("n Square  Total")
